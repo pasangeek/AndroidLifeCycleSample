@@ -6,8 +6,8 @@ import android.util.Log
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class ScondActivity : AppCompatActivity() {
-    private val TAG = ScondActivity::class.java.simpleName
+class SecondActivity : AppCompatActivity() {
+    private val TAG = SecondActivity::class.java.simpleName
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_scond)
